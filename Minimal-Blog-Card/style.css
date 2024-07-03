@@ -50,3 +50,31 @@ img {
     margin: 0;
     padding: 5px;
  }
+
+span {
+  background-color: #E6D6FC;
+  color: #883AE1;
+  padding: 10px;
+  border-radius: 20px;
+  font-family: Sora;
+  font-size: 10px;
+}
+
+p {
+  color: #6C727F;
+  font-family: Sora;
+  font-size: 14px;
+}
+
+h5 {
+  color: #6C727F;
+  margin: 15px;
+  font-family: Sora;
+  font-size: 12px;
+}
+
+h2 {
+  color: #20293A;
+  font-family: Sora;
+  font-size: 18px;
+}
